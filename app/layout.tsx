@@ -29,7 +29,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased dark`}
       >
 
-      <h1>teste de layot</h1>
+    
 
         {children}
       </body>
