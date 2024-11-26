@@ -1,0 +1,50 @@
+[33mcommit c7dea7085acfec3ba6723fb31515edbaaf04a715[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: ldmcrypto <leandrodubinski@gmail.com>
+Date:   Wed Nov 13 19:43:09 2024 -0300
+
+    feat: config login
+
+[33mcommit 161aff77b77b55b7dff9fd71be8efe8c76b8c900[m
+Author: ldmcrypto <leandrodubinski@gmail.com>
+Date:   Mon Nov 11 20:57:34 2024 -0300
+
+    feat: add login page ex img
+
+[33mcommit f476b3208b8177fe9584ccf4ac7bce6ae03b6096[m
+Author: ldmcrypto <leandrodubinski@gmail.com>
+Date:   Sun Nov 10 15:01:41 2024 -0300
+
+    chore: add shudcn setup
+
+[33mcommit eab0eed421616bc3deb89d61eae2b4cb5de0d8ee[m
+Author: ldmcrypto <leandrodubinski@gmail.com>
+Date:   Sun Nov 10 14:33:40 2024 -0300
+
+    chore: add tailwind prettier plugin
+
+[33mcommit 19265738c0ba0cdc94834b50bd6cdb43299a3185[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: ldmcrypto <leandrodubinski@gmail.com>
+Date:   Sun Nov 10 13:32:58 2024 -0300
+
+            new file:   .env
+            new file:   .eslintrc.json
+            new file:   .gitignore
+            new file:   README.md
+            new file:   app/favicon.ico
+            new file:   app/fonts/GeistMonoVF.woff
+            new file:   app/fonts/GeistVF.woff
+            new file:   app/globals.css
+            new file:   app/layout.tsx
+            new file:   app/page.tsx
+            new file:   app/subscription/page.tsx
+            new file:   app/transactions/[id]/page.tsx
+            new file:   app/transactions/page.tsx
+            new file:   next.config.mjs
+            new file:   package-lock.json
+            new file:   package.json
+            new file:   postcss.config.mjs
+            new file:   prisma/migrations/20241110135356_init_db/migration.sql
+            new file:   prisma/migrations/migration_lock.toml
+            new file:   prisma/schema.prisma
+            new file:   tailwind.config.ts
+            new file:   tsconfig.json
