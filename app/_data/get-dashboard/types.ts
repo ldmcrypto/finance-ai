@@ -9,3 +9,4 @@ export interface TotalExpensePerCategory {
   totalAmount: number;
   percentageOfTotal: number;
 }
+
